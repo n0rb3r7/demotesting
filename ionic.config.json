@@ -1,0 +1,8 @@
+{
+  "name": "demotesting",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7cc73ed8"
+}
